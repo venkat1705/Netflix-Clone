@@ -68,3 +68,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# SignUp
+
+
+
+
+
+![Screenshot (102)](https://user-images.githubusercontent.com/84761697/192961908-14d0b0d6-c3eb-4f43-8f23-fe8e366b44ab.png)
+
+# Login
+![Screenshot (103)](https://user-images.githubusercontent.com/84761697/192961949-1dced5b7-2817-44b2-b9e7-893cf876d991.png)
+
+# Home
+![Screenshot (104)](https://user-images.githubusercontent.com/84761697/192962016-199df16a-c14a-4898-94bc-f557af569987.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/84761697/192962050-7fa53277-c7d2-44a7-8a6d-5b8789c0b394.png)
+
+
+![Screenshot (106)](https://user-images.githubusercontent.com/84761697/192962085-72ab3c5c-8616-41da-b0a2-c23037211a1e.png)
+
+# Video Player
+![Screenshot (107)](https://user-images.githubusercontent.com/84761697/192962154-aecaea91-75d9-43e7-b8f6-f28cb154fb80.png)
+![Screenshot (108)](https://user-images.githubusercontent.com/84761697/192962213-b873c791-972b-4569-a1cb-5fa8d684dd80.png)
+
+# Card Hover
+
+![Screenshot (109)](https://user-images.githubusercontent.com/84761697/192962338-3711e3da-c04b-4313-ba6c-4c8d5b21307c.png)
+
+# TV Shows
+
+![Screenshot (110)](https://user-images.githubusercontent.com/84761697/192962381-8a9d4355-7366-442e-ba68-d9567032750e.png)
+
+# MY List
+![Screenshot (111)](https://user-images.githubusercontent.com/84761697/192962429-2c20ca53-b441-4488-9da1-7e4486d3fc4b.png)
+
